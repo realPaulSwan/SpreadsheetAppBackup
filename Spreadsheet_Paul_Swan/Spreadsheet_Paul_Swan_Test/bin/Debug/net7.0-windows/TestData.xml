@@ -1,0 +1,7 @@
+<?xml-stylesheet type="text/xsl" href="mystyle.xsl"?>
+<SpreadSheet>
+    <Cell RowIndex="0" ColumnIndex="0">1</Cell>
+    <Cell RowIndex="0" ColumnIndex="1">2</Cell>
+    <Cell RowIndex="1" ColumnIndex="0">3</Cell>
+    <Cell RowIndex="1" ColumnIndex="1">4</Cell>
+</SpreadSheet>

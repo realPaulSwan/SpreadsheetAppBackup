@@ -1,0 +1,225 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\Spreadsheet_Paul_Swan_Test\\Spreadsheet_Paul_Swan_Test.csproj": {}
+  },
+  "projects": {
+    "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\SpreadsheetEngine\\SpreadsheetEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
+        "projectName": "SpreadsheetEngine",
+        "projectPath": "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
+        "packagesPath": "C:\\Users\\peswa\\.nuget\\packages\\",
+        "outputPath": "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\SpreadsheetEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\peswa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\Spreadsheet_Paul_Swan\\Spreadsheet_Paul_Swan.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\Spreadsheet_Paul_Swan\\Spreadsheet_Paul_Swan.csproj",
+        "projectName": "Spreadsheet_Paul_Swan",
+        "projectPath": "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\Spreadsheet_Paul_Swan\\Spreadsheet_Paul_Swan.csproj",
+        "packagesPath": "C:\\Users\\peswa\\.nuget\\packages\\",
+        "outputPath": "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\Spreadsheet_Paul_Swan\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\peswa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\SpreadsheetEngine\\SpreadsheetEngine.csproj": {
+                "projectPath": "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\SpreadsheetEngine\\SpreadsheetEngine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\Spreadsheet_Paul_Swan_Test\\Spreadsheet_Paul_Swan_Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\Spreadsheet_Paul_Swan_Test\\Spreadsheet_Paul_Swan_Test.csproj",
+        "projectName": "Spreadsheet_Paul_Swan_Test",
+        "projectPath": "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\Spreadsheet_Paul_Swan_Test\\Spreadsheet_Paul_Swan_Test.csproj",
+        "packagesPath": "C:\\Users\\peswa\\.nuget\\packages\\",
+        "outputPath": "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\Spreadsheet_Paul_Swan_Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\peswa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\SpreadsheetEngine\\SpreadsheetEngine.csproj": {
+                "projectPath": "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\SpreadsheetEngine\\SpreadsheetEngine.csproj"
+              },
+              "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\Spreadsheet_Paul_Swan\\Spreadsheet_Paul_Swan.csproj": {
+                "projectPath": "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\Spreadsheet_Paul_Swan\\Spreadsheet_Paul_Swan.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

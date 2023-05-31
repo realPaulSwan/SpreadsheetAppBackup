@@ -1,0 +1,12 @@
+C:\CPTS321Repo\CptS321-HWs\Spreadsheet_Paul_Swan\SpreadsheetEngine\obj\Debug\net7.0-windows\SpreadsheetEngine.csproj.AssemblyReference.cache
+C:\CPTS321Repo\CptS321-HWs\Spreadsheet_Paul_Swan\SpreadsheetEngine\obj\Debug\net7.0-windows\SpreadsheetEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\CPTS321Repo\CptS321-HWs\Spreadsheet_Paul_Swan\SpreadsheetEngine\obj\Debug\net7.0-windows\SpreadsheetEngine.AssemblyInfoInputs.cache
+C:\CPTS321Repo\CptS321-HWs\Spreadsheet_Paul_Swan\SpreadsheetEngine\obj\Debug\net7.0-windows\SpreadsheetEngine.AssemblyInfo.cs
+C:\CPTS321Repo\CptS321-HWs\Spreadsheet_Paul_Swan\SpreadsheetEngine\obj\Debug\net7.0-windows\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+C:\CPTS321Repo\CptS321-HWs\Spreadsheet_Paul_Swan\SpreadsheetEngine\bin\Debug\net7.0-windows\SpreadsheetEngine.deps.json
+C:\CPTS321Repo\CptS321-HWs\Spreadsheet_Paul_Swan\SpreadsheetEngine\bin\Debug\net7.0-windows\SpreadsheetEngine.dll
+C:\CPTS321Repo\CptS321-HWs\Spreadsheet_Paul_Swan\SpreadsheetEngine\bin\Debug\net7.0-windows\SpreadsheetEngine.pdb
+C:\CPTS321Repo\CptS321-HWs\Spreadsheet_Paul_Swan\SpreadsheetEngine\obj\Debug\net7.0-windows\SpreadsheetEngine.dll
+C:\CPTS321Repo\CptS321-HWs\Spreadsheet_Paul_Swan\SpreadsheetEngine\obj\Debug\net7.0-windows\refint\SpreadsheetEngine.dll
+C:\CPTS321Repo\CptS321-HWs\Spreadsheet_Paul_Swan\SpreadsheetEngine\obj\Debug\net7.0-windows\SpreadsheetEngine.pdb
+C:\CPTS321Repo\CptS321-HWs\Spreadsheet_Paul_Swan\SpreadsheetEngine\obj\Debug\net7.0-windows\ref\SpreadsheetEngine.dll

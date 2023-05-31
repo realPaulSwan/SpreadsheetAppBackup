@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bk8wKWa5tp7alzhP8ieW03qBMtiT2I7lqIvqAQhGYt8H9cATg0Bp/JNxXcIveELXVU+pIyEXaasMHvd+FDWtRQ==",
+  "success": true,
+  "projectFilePath": "C:\\CPTS321Repo\\CptS321-HWs\\Spreadsheet_Paul_Swan\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peswa\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
